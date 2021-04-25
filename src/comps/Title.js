@@ -5,7 +5,7 @@ const Title = () => {
     <div className="title">
       
       <h2>PhotoGen</h2>
-      <p>Share Your World</p>
+      <p>#ShareYourWorld</p>
     </div>
   )
 }
